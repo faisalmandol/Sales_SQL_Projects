@@ -29,7 +29,8 @@ select count(*)
 from retail_sales;
 ```
 # Check out every column, is there any null row
-# Data Cleaning 
+# Data Cleaning
+
 ```sql
 select *
 from retail_sales
